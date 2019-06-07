@@ -1,5 +1,6 @@
 Santander Customer Transaction Prediction(Kaggle Top 15%)        
 Mar. 2019-Apr. 2019 
+
 - Performed Explanatory Data Analysis(EDA)
 - Oversampled VS Undersampled the unbalanced data using SMOTE(Random Forest Model)
   - https://github.com/superneo41/Kaggle-Project/blob/master/rf-undersample-average.ipynb
